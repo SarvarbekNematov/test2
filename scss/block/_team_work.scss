@@ -1,0 +1,33 @@
+.team_work{
+    height: 220px;
+    background-color: #f3603c;
+    margin-top: 161px;
+}
+.team__flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.team__title{
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 44px;
+    width: 445px;
+    padding-top: 62px;
+    padding-bottom: 62px;
+    color: #fff;
+}
+
+.team__btn{
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 19px;
+    width: 137px;
+    height: 44px;
+    border-radius: 22px;
+    color: rgb(243, 96, 60);
+    background-color: #fff;
+    text-align: center;
+    padding-top: 12px;
+    margin-top: 88px;
+}

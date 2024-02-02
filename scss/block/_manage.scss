@@ -1,0 +1,70 @@
+.manage{
+    padding-top: 132px;
+    color: #242D52;
+}
+
+.manage__flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.manage__block{
+    width: 445px;
+}
+
+.manage__title{
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 44px;
+    padding-bottom: 24px;
+}
+
+.manage__text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    width: 350px;
+    color: #9196A8;
+}
+
+.manage__list{
+    width: 540px;
+}
+
+.manage__item{
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.manage__item_num{
+    position: absolute;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 23px;
+    text-align: center;
+    width: 67px;
+    height: 39px;
+    background-color: #F3603C;
+    border-radius: 25px;
+    color: #fff;
+    padding-top: 6px;
+}
+
+.manage_item_block{
+    padding-left: 95px;
+    padding-top: 6px;
+}
+
+.manage_item_title{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 23px;
+    padding-bottom: 19px;
+}
+
+.manage__item_text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #9196A8;
+}
